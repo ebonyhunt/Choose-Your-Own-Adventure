@@ -1,0 +1,29 @@
+body {
+    background-color: #990000;
+}
+
+h1 {}
+
+.blue {}
+
+.orange {}
+
+.purple{
+	display: none;
+}
+
+.white{
+	display: none;
+}
+	
+.correct {
+    display: none;
+}
+
+.wrong {
+    display: none;
+}
+
+.poison1 {
+    display: none;
+}
